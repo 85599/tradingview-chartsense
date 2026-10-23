@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+build
+# local AI keys and saved chart reads (also duplicated under ~/.chartsense)
+.data
+.env
+.env.local
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
